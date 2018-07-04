@@ -1,0 +1,9 @@
+.navbar, .navbar.nav{
+    margin: 5px -5px 5px -5px;
+    padding:0px 15px 25px 5px; 
+    
+}
+.navbar-nav span[role=button] {
+    padding: 5px;
+    line-height: 15px;
+  }

@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Book2",
+      "image": "2.png",
+      "alt": "Book2 Image",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "name": "Book3",
+      "image": "3.png",
+      "alt": "Book3 Image",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "name": "Book4",
+      "image": "4.png",
+      "alt": "Book4 Image",
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "name": "Book5",
+      "image": "0.png",
+      "alt": "Book5 Image",
+      "price": 12000
+    },
+    {
+      "id": 6,
+      "name": "Book6",
+      "image": "0.png",
+      "alt": "Book6 Image",
+      "price": 20000
+    },
+    {
+      "id": 1,
+      "name": "Book1",
+      "image": "1.png",
+      "alt": "Book1 Image",
+      "price": 2000
+    }
+  ]
+}

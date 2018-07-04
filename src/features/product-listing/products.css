@@ -1,0 +1,15 @@
+.imgH{
+ 
+   height: 100px;
+   width: 100px;
+}
+.pName {
+   background-color: whitesmoke;
+   text-align: center;
+    
+}
+.list-item{
+    background-color: white;
+    margin:auto;
+    border: 1px solid;
+}
